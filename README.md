@@ -3,7 +3,7 @@ A chat program created for a CIS 422 class at the University of Oregon. Upgraded
 
 USAGE:
 
-Use a 'make' command to build the project.
+Use a 'make' command to build the project
 
 Invoke a server on a <host> and <port> with ./server <host> <port>. Any host port pairs after the first pair indicate other servers to whom
 this server is connected to.  i.e. ./server <host> <port> <host1> <port1> <host2> <port2> connects the server on <host>:<port> to the servers
